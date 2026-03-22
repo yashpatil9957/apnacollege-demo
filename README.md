@@ -1,4 +1,4 @@
 # apnacollege-demo
 This repository is created for the purpose of learning git and github.
 <br>
-Learner: Yashraj Patil
+Learner: Yashraj (student)
